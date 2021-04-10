@@ -6,8 +6,12 @@
     Team Name: RIVER
     TA: Jordan Gassaway
 2. Team Member Info
-    Name:           |    Email:           |     Phone:       |       Weekly Hours :
-    Yuzi Lyu            yul134@ucs.dedu        
+   
+    | Name: | Email: | Phone: | Weekly Hours: |
+    | --- | --- | --- | ---|
+    | Yuzi Lyu | yul134@ucs.dedu | | |       
+    | Noah Teshima | nteshima@ucsd.edu | 858 888 5510 | 10-15 |
+    
 
 3. Primary Means of Communicaiton
     - Discord server for team meeting
