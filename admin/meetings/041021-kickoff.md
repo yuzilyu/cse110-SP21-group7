@@ -2,7 +2,7 @@
 
 ## Topic: Kick-off
 
-## Member Present:
+## Members Present:
     Yuzi Lyu
     Zhiyuan Zhang
     Noah Teshima
@@ -11,14 +11,14 @@
     Alvin Wang
     William Chung
 
-## Member Absent:
+## Members Absent:
     Thanh Tong (excused)
     Brett Herbst (excused)
 
 ## Agenda:
 
 1. _Discuss Team Brand_
-    - Identity: RIVER
+    - Identity: RIVER 🌊
     - Theme (Mission): Improve ourselves day by day -> RIVER: Reflection, Improvement, Values, Empowerment, Refinement.
     - Team Color: Blue like a river
     - Logo: Big seven with blue water color
