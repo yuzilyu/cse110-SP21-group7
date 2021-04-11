@@ -41,4 +41,10 @@ Included here is an overview of our team.
   - Aspiring software or machine learning engineer
   - Enjoys playing the saxophone and golfing
   - GitHub: [@github/alvinwang922](https://github.com/alvinwang922)
+- Brett Herbst
+  - Second year Computer Science major
+  - Interested in SWE and Cybersecurity 
+  - I am on the club lacrosse team at UCSD- Defensive Midfielder 
+  - I play way too much Apex Legends
+  - GitHub: [@github//brettherbst](https://github.com/brettherbst)
 
