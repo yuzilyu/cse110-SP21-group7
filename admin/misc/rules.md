@@ -9,7 +9,7 @@
    
     | Name: | Email: | Phone: | Weekly Hours: |
     | --- | --- | --- | ---|
-    | Yuzi Lyu | yul134@ucs.dedu | | |       
+    | Yuzi Lyu | yul134@ucs.dedu | 978 457 6645 | 10- 15 |       
     | Noah Teshima | nteshima@ucsd.edu | 858 888 5510 | 10-15 |
     
 
