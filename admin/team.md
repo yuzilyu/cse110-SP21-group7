@@ -1,5 +1,6 @@
 # Team 7: RIVER
 
+
 ## Contents
   - [What is RIVER?](#let-your-ideas-flow-with-river)
   - [Team roster](#team-roster)
@@ -20,5 +21,11 @@ Ultimately, we identify as team RIVER because these are values that are intrinsi
 
 Included here is an overview of our team.
 
-1. Noah Teshima ([@github/noahT](https://github.com/NoahT)) is a fourth year Mathematics, Computer Science major at UCSD. In his free time during the pandemic, he enjoys playing with return tops (yo-yos) and hiking.
-2. 
+- Yuzi Lyu
+- Noah Teshima ([@github/noahT](https://github.com/NoahT)) is a fourth year Mathematics, Computer Science major at UCSD. In his free time during the pandemic, he enjoys playing with return tops (yo-yos) and hiking.
+- William Chung
+  - Sophomore Computer Science 🖥️ major, Mathematics 📘 minor 
+  - Aspiring to be a software engineer and computer scientist
+  - Fun fact: I think Team7 is the best team 😎
+  - GitHub: [here](https://github.com/will-chung)
+
