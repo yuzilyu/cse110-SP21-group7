@@ -13,6 +13,7 @@
     | Noah Teshima | nteshima@ucsd.edu | 858 888 5510 | 10-15         |
     | Alvin Wang   | acw011@ucsd.edu   | 510 984 8499 | 10-15         |
     | Brett Herbst | bherbst@ucsd.edu  | 361 960 2288 | 10-15         |
+    | Rachel Doron | rdoron@ucsd.edu   | 858 261 8505 | 10 -15        |
     
 
 3. Primary Means of Communicaiton
