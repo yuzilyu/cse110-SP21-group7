@@ -36,4 +36,15 @@ Included here is an overview of our team.
   - Aspiring to be a software engineer and computer scientist
   - Fun fact: I think Team7 is the best team 😎
   - GitHub: [here](https://github.com/will-chung)
+- Alvin Wang
+  - Second year Computer Science major
+  - Aspiring software or machine learning engineer
+  - Enjoys playing the saxophone and golfing
+  - GitHub: [@github/alvinwang922](https://github.com/alvinwang922)
+- Brett Herbst
+  - Second year Computer Science major
+  - Interested in SWE and Cybersecurity 
+  - I am on the club lacrosse team at UCSD- Defensive Midfielder 
+  - I play way too much Apex Legends
+  - GitHub: [@github//brettherbst](https://github.com/brettherbst)
 
