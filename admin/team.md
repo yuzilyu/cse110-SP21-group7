@@ -47,4 +47,9 @@ Included here is an overview of our team.
   - I am on the club lacrosse team at UCSD- Defensive Midfielder 
   - I play way too much Apex Legends
   - GitHub: [@github//brettherbst](https://github.com/brettherbst)
+- Rachel Doron 
+  - Second year Cognitive Science major, Computer Science minor at UCSD
+  - Intrested in software engineering and Artificial Intelligence 
+  - Hobbies: traveling, cooking, and ballet 
+  - GitHub: [@github/rdoron](https://github.com/rdoron)
 
