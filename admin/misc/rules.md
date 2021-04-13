@@ -6,9 +6,9 @@
     Team Name: RIVER
     TA: Jordan Gassaway
 2. Team Member Info
-    Name:           |    Email:           |     Phone:       |       Weekly Hours :
-    Yuzi Lyu            yul134@ucs.dedu        
-    Zhiyuan Zhang       zhz018@ucsd.edu         8589004739          5-8 hours
+    |Name            |    Email            |     Phone        |    Weekly Hours   |
+    |----------------|---------------------|------------------|-------------------|                  
+    |Zhiyuan Zhang   |   zhz018@ucsd.edu   |   8589004739     |     5-8 hours     |
 
 3. Primary Means of Communicaiton
     - Discord server for team meeting
