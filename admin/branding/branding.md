@@ -9,4 +9,4 @@ In the logo image we have these hex colors:
 8. ![#068782](https://via.placeholder.com/25/068782/)(#068782)
 9. ![#05ada2](https://via.placeholder.com/25/05ada2/)(#05ada2)
 10. ![#acc474](https://via.placeholder.com/25/acc474/)(#acc474)
-- credit to [imagecolorpicker.com](https://imagecolorpicker.com) and [placeholder.com](placeholder.com)
+- credit to [imagecolorpicker.com](https://imagecolorpicker.com) and [placeholder.com](https://placeholder.com)
