@@ -25,8 +25,8 @@ Included here is an overview of our team.
   - Second year CS major at UCSD, Co-lead for RIVER
   - Enthusiastic about software engineering and product management
   - I love learning about TV/display specs
-  - More about me [here](https://yuzilyu.github.io/Introduction/)
-  - Github: [@github/yuzilyu](https://github.com/yuzilyu)
+  - More about me [here](https://www.linkedin.com/in/yuzi-lyu/)
+  - Github: [@github/yuzilyu](https://yuzilyu.github.io/Introduction/)
 - Noah Teshima 
   - Fourth year Mathematics, Computer Science major at UCSD.
   - In his free time during the pandemic, he enjoys playing with return tops (yo-yos) and hiking.
