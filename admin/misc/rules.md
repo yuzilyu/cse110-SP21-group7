@@ -8,7 +8,7 @@
 2. Team Member Info
     |Name            |    Email            |     Phone        |    Weekly Hours   |
     |----------------|---------------------|------------------|-------------------|                  
-    |Zhiyuan Zhang   |   zhz018@ucsd.edu   |   8589004739     |     5-8 hours     |
+    |Zhiyuan Zhang   |   zhz018@ucsd.edu   |   8589004739     |     10  hours     |
 
 3. Primary Means of Communicaiton
     - Discord server for team meeting
