@@ -16,6 +16,7 @@
     | Rachel Doron  | rdoron@ucsd.edu   | 858 261 8505 | 10-15         |
     | Zhiyuan Zhang | zhz018@ucsd.edu   | 858 900 4739 | 10            |
     | William Chung | wchung@ucsd.edu   | 714 696 4702 | 10-15         |
+    | Thanh Tong    | ttong@ucsd.edu    | 909 551 9355 | 10-15         |
     
 
 3. Primary Means of Communicaiton
